@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I make cool stuff. Stupid stuff, but cool stuff.<br>Idk what to put on the rest of this readme.
 <!--
 **The0Show/the0show** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
