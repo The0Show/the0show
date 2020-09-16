@@ -2,8 +2,7 @@
 I make cool stuff. Stupid stuff, but cool stuff.<br>Idk what to put on the rest of this readme.
 
 ## How to reach me:
-I recommend Discord or Twitter!
-Discord: The0Show™#8908<br>Twitter: https://twitter.com/The0Show94
+I recommend Discord or Twitter!<br>Discord: The0Show™#8908<br>Twitter: https://twitter.com/The0Show94
 <!--
 **The0Show/the0show** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
