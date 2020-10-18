@@ -1,6 +1,10 @@
 ## Hi there 👋
 I make cool stuff. Stupid stuff, but cool stuff.<br>Idk what to put on the rest of this readme.
 
+[![The0Show's github stats](https://github-readme-stats.vercel.app/api?username=The0Show)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0Show)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to reach me:
 I recommend Discord or Twitter!<br>Discord: The0Show™#8908<br>Twitter: https://twitter.com/The0Show94
 <!--
