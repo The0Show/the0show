@@ -6,9 +6,9 @@ I'm The0Show. I like making stuff.
 I'm working on a Minecraft server with someone, and we need developers (and money). If you think you are interested, [click here for more info](https://docs.google.com/document/d/18_pPXrxGoMDKP5NsumzUpStdCHvRg5QmFQEjopiTesI/edit?usp=sharing).
 
 ## About
-Pronouns: he/him
-Years of Experience: 3 years
-Favorite Language: JavaScript
+- Pronouns: he/him
+- Years of Experience: 3 years
+- Favorite Language: JavaScript
 
 ## GitHub Stats
 ![The0Show's github stats](https://github-readme-stats.vercel.app/api?username=The0Show)
