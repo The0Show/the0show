@@ -3,7 +3,11 @@
 professional idiot
 
 ## Help wanted!
-I'm working on a Minecraft server with someone, and we need developers (and money). If you think you are interested, [click here for more info](https://docs.google.com/document/d/18_pPXrxGoMDKP5NsumzUpStdCHvRg5QmFQEjopiTesI/edit?usp=sharing).
+[The YT Community](https://github.com/The-YT-Community) and I are looking for web developers to assist with their website! If you have experience in the below subjects, please contact me on Discord: `The0Show#8908`
+- Web Design
+- Firebase
+- Authentication
+- Payments
 
 ## About
 - Pronouns: he/him
