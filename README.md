@@ -3,7 +3,7 @@
 professional idiot
 
 ## Help wanted!
-[The YT Community](https://github.com/The-YT-Community) and I are looking for web developers to assist with their website! If you have experience in the below subjects, please contact me on Discord: `The0Show#8908`
+[The YT Community](https://github.com/The-YT-Community) and I are looking for web developers to assist with their website! If you have experience in the below subjects, please [contact me](https://the0show.com/contact)!
 - Web Design
 - Firebase
 - Authentication
