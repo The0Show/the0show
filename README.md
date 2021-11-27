@@ -11,7 +11,6 @@ professional idiot
 
 ## About
 - Pronouns: he/him
-- Years of Experience: 3 years
 - Favorite Language: JavaScript
 
 ## GitHub Stats
