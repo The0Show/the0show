@@ -1,13 +1,6 @@
 
 # The0Show
-professional idiot
-
-## Help wanted!
-[The YT Community](https://github.com/The-YT-Community) and I are looking for web developers to assist with their website! If you have experience in the below subjects, please [contact me](https://the0show.com/contact)!
-- Web Design
-- Firebase
-- Authentication
-- Payments
+funni professional idiot person who has uno cards in their pocket
 
 ## About
 - Pronouns: he/him
@@ -18,10 +11,7 @@ professional idiot
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0Show)
 
-## Other Stuff
-[Contact Info](http://the0show.com/contact.html)
-<br>
-[Resume](https://the0show.com/resume.html)
+[wbste](https://the0show.com)
 
 <!--
 **The0Show/the0show** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
